@@ -8,5 +8,7 @@ public class Test {
 	public static void main(String[] args) {
 		System.out.println("Hello World!");
 	}
-
+	public static void printN(int n){
+		System.out.println(8);
+	}
 }
